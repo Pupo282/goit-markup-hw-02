@@ -26,6 +26,7 @@ text-transform: uppercase;
     color:#2e2f42 
     ;
   }
+  
 .header-menu-list {
 }
 .header-menu-item {
@@ -40,13 +41,13 @@ letter-spacing: 0.02em;
 .header-menu-link:hover {
     color:#404BBF;
 }
-.address{
+.header-soc{
 
   font-style: normal 
 }
 .header-soc-list {
 }
-.header-soc-item-1, .header-soc-item-2 {
+.header-soc-item-m, .header-soc-item-t {
     color:#434455;
 
    font-size: 16px;
@@ -54,7 +55,7 @@ font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
-.header-soc-item-1:hover{
+.header-soc-item-m:hover{
     color:#404BBF
 }
 

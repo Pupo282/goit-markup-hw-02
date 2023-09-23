@@ -42,7 +42,7 @@ letter-spacing: 0.02em;
     color:#404BBF;
 }
 .header-menu-link:focus{
-    #404bbf
+  color: #404bbf
 }
 .header-soc{
   font-style: normal; 
@@ -126,17 +126,18 @@ letter-spacing: 0.02;
     background-color: #F4F4FD;
 }
 .team-logo {
-    color:#2E2F42;
+        color:#2E2F42;
 text-align: center;
 font-size: 36px;
 font-weight: 700;
 line-height: 1.11;
-letter-spacing: 0.02;
+letter-spacing: 0.02em;
 text-transform: capitalize;
 }
 .team-list {
 }
 .team-item {
+    background-color: #FFFFFF;
 }
 .team-subtitle {
     background-color: #FFFFFF;

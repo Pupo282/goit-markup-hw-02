@@ -49,7 +49,7 @@ letter-spacing: 0.02em;
 }
 .header-soc-list {
 }
-.header-soc-item-m, .header-soc-item-t {
+.header-soc-item {
     color:#434455;
 
    font-size: 16px;
@@ -57,10 +57,10 @@ font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
-.header-soc-item-m:hover{
-    color:#404BBF
+.header-soc-item:hover{
+    color:#404bbf
 }
-.header-soc-item-m:focus {
+.header-soc-item:focus {
     color: #404bbf;
 }
 
